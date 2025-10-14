@@ -25,5 +25,8 @@ __This is how you bold text__ </br>
 ### Code Blocks
 <code> numpy </code>
 
-### Subscripts
-H~2~0
+### Strikethough
+~Strike
+
+### Superscipt
+H^2
