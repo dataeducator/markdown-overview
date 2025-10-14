@@ -26,4 +26,4 @@ __This is how you bold text__ </br>
 <code> numpy </code>
 
 ### Subscripts
-	H~2~O
+H~2~0
