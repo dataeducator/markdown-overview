@@ -22,4 +22,8 @@ __This is how you bold text__ </br>
 | x           | Independent Variable|
 |y | Dependent Variable|
 
+### Code Blocks
 <code> numpy </code>
+
+### Subscripts
+	H~2~O
