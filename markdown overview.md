@@ -6,7 +6,7 @@ T
 ### H3
 #### H4
 
-__This is how you bold text__
+__This is how you bold text__ </br>
 *This is how you italicize text*
 >This is a block quote
 > Still a part of the block </br>
@@ -21,4 +21,5 @@ __This is how you bold text__
 |-------------|-------------------|
 | x           | Independent Variable|
 |y | Dependent Variable|
-4. 
+
+<code> numpy </code>
