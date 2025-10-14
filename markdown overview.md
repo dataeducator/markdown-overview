@@ -25,8 +25,7 @@ __This is how you bold text__ </br>
 ### Code Blocks
 <code> numpy </code>
 
-### Strikethough
-~Strike
-
-### Superscipt
-H^2
+### Task List
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
