@@ -1,5 +1,3 @@
-T
-
 # These are headings
 # H1 
 ## H2
