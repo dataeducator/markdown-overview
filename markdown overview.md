@@ -29,3 +29,6 @@ __This is how you bold text__ </br>
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+
+### Try 2 for superscript
+X<sup>2</sup>
